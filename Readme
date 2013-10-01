@@ -1,0 +1,3 @@
+A plugin with the deprecated db:push and db:pull commands. Using this is unsupported and not encouraged. It will break when the taps servers are deprovsioned.
+
+Use pg:push and pg:pull instead.
